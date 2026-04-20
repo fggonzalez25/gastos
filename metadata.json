@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Gastos Mensuales",
+  "description": "Aplicación para la carga de gastos e ingresos con sincronización automática en Google Sheets, resúmenes mensuales y gráficos de análisis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
